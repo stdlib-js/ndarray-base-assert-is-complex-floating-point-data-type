@@ -43,7 +43,7 @@ limitations under the License.
 <!-- eslint-disable id-length -->
 
 ```javascript
-import isComplexFloatingPointDataType from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-assert-is-complex-floating-point-data-type@esm/index.mjs';
+import isComplexFloatingPointDataType from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-assert-is-complex-floating-point-data-type@v0.0.1-esm/index.mjs';
 ```
 
 #### isComplexFloatingPointDataType( value )
@@ -88,7 +88,7 @@ bool = isComplexFloatingPointDataType( 'uint32' );
 <body>
 <script type="module">
 
-import isComplexFloatingPointDataType from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-assert-is-complex-floating-point-data-type@esm/index.mjs';
+import isComplexFloatingPointDataType from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-assert-is-complex-floating-point-data-type@v0.0.1-esm/index.mjs';
 
 var bool = isComplexFloatingPointDataType( 'binary' );
 // returns false
