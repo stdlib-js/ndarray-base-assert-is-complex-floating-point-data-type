@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-09-19)
+## Unreleased (2025-09-21)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`bcc1af5`](https://github.com/stdlib-js/stdlib/commit/bcc1af5db7947fcef9a41c727843453d14a9ced1) - **refactor:** update require paths to use lower-level utility _(by Athan Reines)_
 -   [`bdd0013`](https://github.com/stdlib-js/stdlib/commit/bdd0013af7bb684e818bedaf287389165858105b) - **docs:** update JSDoc _(by Athan Reines)_
 -   [`70dda4f`](https://github.com/stdlib-js/stdlib/commit/70dda4f47b6613531ee298231ea60630174f3dcc) - **feat:** add support for non-string data types _(by Athan Reines)_
 
